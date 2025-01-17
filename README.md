@@ -1,1 +1,1 @@
-# e-commerceWebApp
+Le projet BLOOM consiste à développer une boutique en ligne spécialisée dans la vente d'outils de jardinage, de plantes, de pots et d'équipements pour l'aménagement extérieur. Cette application web permet aux utilisateurs de s'inscrire, de parcourir les produits, de gérer leur panier et d'effectuer des achats. Parallèlement, une interface d'administration permet de gérer les produits (ajout, modification et suppression). 
